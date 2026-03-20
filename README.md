@@ -1,1 +1,1 @@
-Xây dựng các báo cáo phân tích doanh thu và số lượng sách bán của cửa hàng sách
+Create reports analyzing the revenue and number of books sold by the bookstore.
